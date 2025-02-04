@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4998&pause=500&color=F7AAC4&width=435&lines=Hello%2C+I'm+Sankalpa+Poudel;Web+Developer)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🔭 I’m currently working on:<br>Developing a new feature for a web application.<br>---<br>👯 I’m looking to collaborate on:<br>Building a web app for a local business, focusing on user experience and accessibility.<br>---<br>🤝 I’m looking for help with:<br>Improving SEO strategies for my website.<br>---<br>🌱 I’m currently learning:<br>Advanced CSS techniques for better layout and design.<br>---<br>⚡ Fun fact:<br>I designed my first website when I was 15 years old!
 
